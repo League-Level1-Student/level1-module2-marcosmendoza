@@ -13,6 +13,8 @@ public class SeaCreature {
 	// 2. Make Patrick and Squidward and print their name, have them eat, and make them laugh.
 
 
+	
+	
 	private String name;
 
 	SeaCreature(String name) {
